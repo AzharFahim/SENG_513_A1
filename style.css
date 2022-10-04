@@ -1,0 +1,160 @@
+body{
+  margin: 0;
+  font-family:sans-serif;
+  background-color: black;
+
+
+
+
+}
+
+
+.Header{
+  background-color: black;
+  text-align: center;
+  font-size: 60px;
+  padding: 35px;
+  font-weight: bolder;
+  margin: 0;
+  color: White;
+
+}
+
+
+.below_header{
+  height: 30px;
+  background-color: transparent;
+  margin: 0;
+  color: black;
+}
+
+.tbl1{
+  width: 100%;
+  text-align: center;
+  border-radius: 5px;
+  border-color: white;
+  border: 5px;
+  font-size: 1rem;
+}
+
+
+.details{
+  background-image: url('images/stadium.jpg');
+  height: 60rem;
+  width: 100%;
+  background-size: cover;
+  color: White;
+  margin-top: 0;
+  padding-top: 30px;
+  border-top: 0;
+  text-align: center;
+
+
+
+
+}
+
+.inDetails{
+  text-align: center;
+  color: black;
+
+  background-color:#F0E2D0;
+  width: 60%;
+  margin:auto;
+  padding: 2%;
+
+
+
+}
+
+
+.para{
+  text-align: left;
+  padding-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+
+}
+.para1{
+  text-align: left;
+  padding-bottom: 3%;
+  margin: 0;
+  border:0;
+  padding-top:0;
+  padding-bottom: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.cell{
+  background-color: black;
+  color: white;
+}
+
+.video1{
+  height: 50%;
+  width: 50%;
+  margin:auto;
+text-align: center;
+
+
+}
+
+
+a:link, a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.cell:hover{
+  background-color: white;
+  color: black;
+}
+
+.cell1{
+  background-color: white;
+  color: black;
+}
+
+.title:hover{
+  color: #76BA99;
+}
+
+
+.tbl2 tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+
+.tbl2 tr:nth-child(even) {
+  background-color: #D6CDA4;
+}
+
+.tbl2 th{
+  text-align: left;
+  padding: 8px;
+
+}
+
+
+.tbl2 td{
+  text-align: left;
+  padding: 8px;
+
+}
+
+.tbl2{
+  margin: auto;
+  width: 90%;
+  padding-bottom: 5%;
+
+}
+
+
+
+
+.footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
